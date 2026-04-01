@@ -1,4 +1,4 @@
-# EMOS 线路直连规则
+# EMOS 线路规则
 # 更新时间：2026-04-01
 
 DOMAIN,a.aiaa.top,DIRECT
@@ -41,3 +41,5 @@ DOMAIN,pro.111196123.xyz,DIRECT
 DOMAIN,proxy.2019102.xyz,DIRECT
 DOMAIN,xn--ct9h.cc.cd,DIRECT
 DOMAIN,yd.dirige.de5.net,DIRECT
+DOMAIN-SUFFIX,223789.xyz,DIRECT
+DOMAIN-SUFFIX,023168.xyz,PROXY
