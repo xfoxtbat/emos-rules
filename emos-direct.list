@@ -1,5 +1,5 @@
 # EMOS 线路直连规则
-# 更新时间：2026-04-21
+# 更新时间：2026-04-25
 
 DOMAIN-SUFFIX,223789.xyz,DIRECT
 DOMAIN,e.zfaa.eu.cc,DIRECT
@@ -43,9 +43,8 @@ DOMAIN,emos.biu.gv.uy,DIRECT
 DOMAIN,clun.top,DIRECT
 DOMAIN,emos6.dolby.dpdns.org,DIRECT
 DOMAIN,emos.dolby.dpdns.org,DIRECT
-# 2026-04-21 新增
+# 2026-04-25 从线路管理页补充
 DOMAIN,emos.1qcg.lol,DIRECT
-DOMAIN,tmy.19990816.xyz,DIRECT
 DOMAIN,auto3.oneq1st.dpdns.org,DIRECT
 DOMAIN,emos.001011.de5.net,DIRECT
 DOMAIN,emos.xiejiang.ggff.net,DIRECT
